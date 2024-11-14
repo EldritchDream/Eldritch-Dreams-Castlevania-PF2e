@@ -1,0 +1,33 @@
+{
+  "id": "eldritch-dreams-castlevania-creatures",
+  "title": "Eldritch Dream's Castlevania Creatures",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "description": "A collection of Castlevania stuff",
+  "authors": [
+    {
+      "name": "Shawn \"Eldritch Dream\" Pommier",
+      "email": "aneldritchdreamgames@gmail.com",
+      "url": "https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e",
+      "discord": "eldritchdream",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "eldritch-dreams-castlevania-creatures",
+      "label": "Eldritch Dream's Castlevania Creatures",
+      "path": "packs/eldritch-dreams-castlevania-creatures",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ]
+}
