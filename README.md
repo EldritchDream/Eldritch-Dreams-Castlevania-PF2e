@@ -7,6 +7,7 @@ To install the module on Foundry, navigate to the latest release, Right Click "m
 - Ectoplasm
 - Gaibon
 - Legion
+- Persephone
 - Plate Lord
 - Slogra
 - Stone Rose
