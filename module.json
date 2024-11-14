@@ -1,7 +1,7 @@
 {
   "id": "eldritch-dreams-castlevania-creatures",
   "title": "Eldritch Dream's Castlevania Creatures",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -29,5 +29,7 @@
       "system": "pf2e",
       "flags": {}
     }
-  ]
+  ],
+  "manifest":"https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e/releases/download/0.2.1/module.json",
+  "download":"https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e/releases/download/0.2.1/eldritch-dreams-castlevania-creatures.zip"
 }
