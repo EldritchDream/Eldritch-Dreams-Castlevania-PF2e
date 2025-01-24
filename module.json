@@ -6,12 +6,12 @@
     "minimum": "12",
     "verified": "12"
   },
-  "description": "A collection of Castlevania stuff",
+  "description": "A collection of Castlevania creatures for Pathfinder 2e",
   "authors": [
     {
       "name": "Shawn \"Eldritch Dream\" Pommier",
       "email": "aneldritchdreamgames@gmail.com",
-      "url": "https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e",
+      "url": "https://www.patreon.com/c/EldritchDreamCreations",
       "discord": "eldritchdream",
       "flags": {}
     }
@@ -22,14 +22,35 @@
       "label": "Eldritch Dream's Castlevania Creatures",
       "path": "packs/eldritch-dreams-castlevania-creatures",
       "type": "Actor",
+      "system": "pf2e",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
+      }
+    },
+    {
+      "name": "eldritch-dreams-castlevania-creatures-itemseffects",
+      "label": "Eldritch Dream's Castlevania Creatures (items/effects)",
+      "path": "packs/eldritch-dreams-castlevania-creatures-itemseffects",
+      "type": "Item",
       "system": "pf2e",
-      "flags": {}
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "pack-3eldritch-dreams-castlevania-creatures-journals",
+      "label": "Pack 3Eldritch Dream's Castlevania Creatures (journals))",
+      "path": "packs/pack-3eldritch-dreams-castlevania-creatures-journals",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
-  "manifest":"https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e/releases/download/1.0.0/module.json",
-  "download":"https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e/releases/download/1.0.0/eldritch-dreams-castlevania-creatures.zip"
+  "manifest": "https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e/releases/download/0.2.0/module.json",
+  "download": "https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e/releases/download/0.2.0/eldritch-dreams-castlevania-creatures.zip",
+  "url": "https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e"
 }

@@ -24,3 +24,5 @@ To install the module on Foundry, navigate to the latest release, Right Click "m
 - Slogra
 - Spittlebone
 - Stone Rose
+- Arthroverta Nymph (4 variations)
+- Arthroverta Corrupter
