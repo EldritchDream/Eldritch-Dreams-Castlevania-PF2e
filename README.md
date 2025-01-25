@@ -1,5 +1,5 @@
 ﻿# Eldritch-Dreams-Castlevania-PF2e
-To install the module on Foundry, Right Click "module.json" and copy the link. paste the link in the Manifest URL field at the bottom of the Install Module window in foundry!
+To install the module on Foundry, Highlight or right click:  "[https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e/releases/download/latest-release/module.json](https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e/releases/download/latest-release/module.json)" and copy the link. paste the link in the Manifest URL field at the bottom of the Install Module window in foundry!
 
 ## Current Contents
 - Axe Armor (+1 variant)
