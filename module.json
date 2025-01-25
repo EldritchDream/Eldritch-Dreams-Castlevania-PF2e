@@ -5,6 +5,7 @@
   "version": "1.0.1",
   "library": "false",
   "manifestPlusVersion": "1.0.1",
+  "system": "pf2e",
   "compatibility": {
       "minimum": 10,
       "verified": 12,
