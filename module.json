@@ -55,7 +55,7 @@
       }
     }
   ],
-  "manifest": "https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e/releases/download/1.0.1/module.json",
-  "download": "https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e/releases/download/1.0.1/CV.zip",
+  "manifest": "https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e/releases/download/latest-release/module.json",
+  "download": "https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e/releases/download/latest-release/CV.zip",
   "url": "https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e"
 }
