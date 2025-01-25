@@ -2,9 +2,9 @@
   "id": "eldritch-dreams-castlevania-creatures",
   "title": "Eldritch Dream's Castlevania Creatures",
   "description": "A collection of Castlevania creatures for Pathfinder 2e",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "library": "false",
-  "manifestPlusVersion": "1.0.1",
+  "manifestPlusVersion": "1.0.2",
   "system": "pf2e",
   "compatibility": {
       "minimum": 10,
