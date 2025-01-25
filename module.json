@@ -1,5 +1,5 @@
 {
-  "name": "eldritch-dreams-castlevania-creatures",
+  "id": "eldritch-dreams-castlevania-creatures",
   "title": "Eldritch Dream's Castlevania Creatures",
   "description": "A collection of Castlevania creatures for Pathfinder 2e",
   "version": "1.0.1",
@@ -56,6 +56,6 @@
     }
   ],
   "manifest": "https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e/blob/main/module.json",
-  "download": "https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e/blob/main/.zip",
+  "download": "https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e/blob/main/CV.zip",
   "url": "https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e"
 }
