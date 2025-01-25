@@ -50,7 +50,6 @@
       }
     }
   ],
-  "manifest": "https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e/releases/download/0.2.0/module.json",
-  "download": "https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e/releases/download/0.2.0/eldritch-dreams-castlevania-creatures.zip",
+  "manifest": "https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e/blob/main/module.json",
   "url": "https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e"
 }
