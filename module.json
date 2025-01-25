@@ -55,7 +55,7 @@
       }
     }
   ],
-  "manifest": "https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e/blob/f5dcd71eb41aa4689252f13663aa16bcf311af06/module.json",
-  "download": "https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e/blob/5d86e12f48fc1fdafeebee28820f32e53a060cc2/CV.zip",
+  "manifest": "https://raw.githubusercontent.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e/refs/heads/main/module.json",
+  "download": "https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e/raw/refs/heads/main/CV.zip",
   "url": "https://github.com/EldritchDream/Eldritch-Dreams-Castlevania-PF2e"
 }
