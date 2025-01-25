@@ -1,12 +1,16 @@
 {
   "name": "eldritch-dreams-castlevania-creatures",
   "title": "Eldritch Dream's Castlevania Creatures",
-  "version": "1.0.1",
-  "compatibility": {
-    "minimum": "12",
-    "verified": "12"
-  },
   "description": "A collection of Castlevania creatures for Pathfinder 2e",
+  "version": "1.0.1",
+  "library": "false",
+  "manifestPlusVersion": "1.0.1",
+  "compatibility": {
+      "minimum": 10,
+      "verified": 12,
+      "maximum": 13
+  },
+  
   "authors": [
     {
       "name": "Shawn \"Eldritch Dream\" Pommier",
